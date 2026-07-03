@@ -34,6 +34,7 @@ Building scalable web applications with modern technologies.
 ### Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools
