@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Suraj Amgain</h1>
 
 <h3 align="center">
@@ -67,4 +66,3 @@ Building scalable web applications with modern technologies.
 <p align="center">
 ⭐ Always learning. Always building.
 </p>
-```
